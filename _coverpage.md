@@ -2,11 +2,11 @@
 
 # 小陈的GitHub Page
 
-> A magical documentation site generator.
+> 暂时没想好这里写什么
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- 前面的忘了
+- 后面的忘了
+- 总之全忘了
 
 [GitHub](https://github.com/CoChaCoRa/)
 [Get Started](/README.md)
